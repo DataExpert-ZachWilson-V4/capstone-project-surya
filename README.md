@@ -17,8 +17,8 @@ Amazon CloudWatch: For scheduling and monitoring.
 
 Prerequisites:
 
-AWS account with appropriate permissions.
-Alpha Vantage API key.
-Python 3.x installed locally.
-AWS CLI configured on your local machine.
-Boto3 (AWS SDK for Python) installed.
+1. AWS account with appropriate permissions.
+2. Alpha Vantage API key.
+3. Python 3.x installed locally.
+4. AWS CLI configured on your local machine.
+5. Boto3 (AWS SDK for Python) installed.
