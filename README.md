@@ -1,10 +1,11 @@
 Capstone Project: Stock Market Data Analysis
 
-Overview
+Overview:
 
 This project aims to analyze stock market data, focusing on Nvidia (NVDA), Tesla (TSLA), and other tech stocks. The analysis will be event-driven, with data streamed and processed every hour. AWS services will be utilized to build and deploy the project.
 
-Architecture
+Architecture:
+
 Data Source: Alpha Vantage API for fetching stock data.
 AWS Services:
 AWS Lambda: For fetching and processing data.
@@ -14,7 +15,8 @@ AWS Glue: For data cataloging and ETL.
 Amazon Athena: For querying data.
 Amazon CloudWatch: For scheduling and monitoring.
 
-Prerequisites
+Prerequisites:
+
 AWS account with appropriate permissions.
 Alpha Vantage API key.
 Python 3.x installed locally.
